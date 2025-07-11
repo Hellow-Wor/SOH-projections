@@ -1,4 +1,5 @@
-# SOH-projections
-This is a PyTorch implementation of the paper： Fully Printable Integrated Multifunctional Sensor Arrays for Intelligent Lithium-Ion Batteries. Nuo Sun, Qinlang Rong，Jie Wu，Xin He<br>
+# SOH-projections [![DOI](https://zenodo.org/badge/834430429.svg)](https://doi.org/10.5281/zenodo.15864164)
+Nuo Sun1,2, †, Qinlang Rong, Kang Xu, Yuanjing Lin, Xin He. et al. Fully Printable Integrated Multifunctional Sensor Arrays for Intelligent Lithium-ion Batteries. SOH-projections. Zenodo. https://doi.org/10.5281/zenodo.1234567 (2024). <br>
+This is a PyTorch implementation of the paper： Fully Printable Integrated Multifunctional Sensor Arrays for Intelligent Lithium-Ion Batteries.
 This model is implemented using Python3 with dependencies specified in requirements.txt<br>
 If you have any questions, please contact xinhe@scu.edu.cn
